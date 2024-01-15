@@ -1,5 +1,5 @@
 '''
-diabetes dataset 是一個糖尿病資料集,主要包括 442 筆資料,10 個屬性值,分別是:age (年齡)、 sex (性別)、
+diabetes dataset 是一個糖尿病資料集,主要包括 442 筆資料,10 個屬性值,分別是:age (年齡)、 sex (性別)、
 bmi (Body Mass Index 體質指數)、 bp (Average Blood Pressure平均血壓)、s1~s6 (一年後疾病級數指標)。
 target 為一年後患疾病的定量指標。
 1.建立線性多元迴歸的預測模型,繪出散佈圖來比較預測一年後患疾病的定量指標和實際一年後患疾病的定量指標的結果。
